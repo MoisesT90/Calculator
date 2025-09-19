@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CalcTwoScreens</string>
+    <string name="app_name">Calculator</string>
     <string name="numero_1">Número 1</string>
     <string name="numero_2">Número 2</string>
     <string name="elije_operacion">Elige operación</string>
@@ -12,5 +12,6 @@
         <item>Resta</item>
         <item>Multiplicación</item>
         <item>División</item>
+        <item>Potencia</item>
     </string-array>
 </resources>
